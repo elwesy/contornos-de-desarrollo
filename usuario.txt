@@ -1,0 +1,4 @@
+Nombre:Pepe
+email: pepe@ejemplo.com
+Contrasena: prueba123
+Telefono: 600123456
